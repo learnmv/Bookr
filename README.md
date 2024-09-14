@@ -1,5 +1,4 @@
 # Bookr
-Book Review Web application 
-In this web app we can create entries for new books delete old books modify author names of the books
+Book Review Web Application
 
-Users can also add their reviews of the book, modify them and delete them
+This web application allows users to manage a personal library by creating, editing, and deleting book entries. Users can modify book details, such as the author’s name. Additionally, the platform enables users to submit reviews for each book, with the ability to update or remove their reviews as needed.
